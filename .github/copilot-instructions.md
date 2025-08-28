@@ -8,7 +8,7 @@
 ## Build & Run Workflows
 - **Development server:** Use `npm start` to run Vite on port 3000 (auto-switches if busy). Output is at `http://localhost:3000/`.
 - **Testing:** Use `npm test` to run tests with Vitest. Test files are in `src/` and use the `.test.jsx` extension.
-- **Build:** Use `npm run build` to create a production build in `/build`.
+- **Build:** Use `npm run build` to create a production build in `dist/`.
 - **Preview:** Use `npm run preview` to serve the production build locally.
 
 ## Testing Details
